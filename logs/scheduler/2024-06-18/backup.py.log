@@ -1,0 +1,327 @@
+[2024-06-18T14:12:13.877+0545] {processor.py:161} INFO - Started process (PID=5005) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:12:13.878+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:12:13.879+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:13.878+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:12:13.889+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:12:13.965+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:13.964+0545] {override.py:1829} INFO - Created Permission View: can delete on DAG:Backup_Database
+[2024-06-18T14:12:13.974+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:13.974+0545] {override.py:1829} INFO - Created Permission View: can read on DAG:Backup_Database
+[2024-06-18T14:12:13.981+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:13.981+0545] {override.py:1829} INFO - Created Permission View: can edit on DAG:Backup_Database
+[2024-06-18T14:12:13.982+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:13.982+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:13.989+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:13.989+0545] {dag.py:3118} INFO - Creating ORM DAG for Backup_Database
+[2024-06-18T14:12:13.996+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:13.996+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:10:00+00:00, run_after=2024-06-18 08:20:00+00:00
+[2024-06-18T14:12:14.010+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.137 seconds
+[2024-06-18T14:14:29.987+0545] {processor.py:161} INFO - Started process (PID=5310) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:14:29.988+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:14:29.989+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:29.989+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:14:30.002+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:14:30.021+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:30.021+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:30.038+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:30.038+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:14:30.055+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.073 seconds
+[2024-06-18T14:15:20.781+0545] {processor.py:161} INFO - Started process (PID=5448) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:15:20.782+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:15:20.783+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:20.783+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:15:20.792+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:15:20.928+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:20.927+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:20.934+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:20.933+0545] {dag.py:3118} INFO - Creating ORM DAG for Backup_Database
+[2024-06-18T14:15:20.941+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:20.941+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:15:20.959+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.182 seconds
+[2024-06-18T14:15:45.517+0545] {processor.py:161} INFO - Started process (PID=5503) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:15:45.518+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:15:45.519+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:45.519+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:15:45.530+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:15:45.536+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:45.536+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:45.554+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:45.554+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:20:00+00:00, run_after=2024-06-18 08:30:00+00:00
+[2024-06-18T14:15:45.571+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.058 seconds
+[2024-06-18T14:16:45.475+0545] {processor.py:161} INFO - Started process (PID=5676) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:16:45.476+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:16:45.477+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:45.477+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:16:45.485+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:16:45.604+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:45.604+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:16:45.615+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:45.615+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:16:45.631+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.160 seconds
+[2024-06-18T14:17:36.438+0545] {processor.py:161} INFO - Started process (PID=5805) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:17:36.439+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:17:36.440+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:36.440+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:17:36.449+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:17:36.459+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:36.459+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:17:36.475+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:36.475+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:17:36.548+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.114 seconds
+[2024-06-18T14:18:24.553+0545] {processor.py:161} INFO - Started process (PID=5906) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:18:24.554+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:18:24.555+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:24.555+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:18:24.618+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:18:24.624+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:24.624+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:18:24.636+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:24.636+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:18:24.652+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.103 seconds
+[2024-06-18T14:22:02.858+0545] {processor.py:161} INFO - Started process (PID=6485) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:22:02.859+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:22:02.861+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:02.860+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:22:02.875+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:22:02.881+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:02.881+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:22:02.902+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:02.902+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:22:02.919+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.066 seconds
+[2024-06-18T14:23:00.855+0545] {processor.py:161} INFO - Started process (PID=6692) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:23:00.857+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:23:00.858+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:00.857+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:23:00.865+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:23:01.000+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:01.000+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:01.018+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:01.018+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:23:01.033+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.181 seconds
+[2024-06-18T14:23:38.907+0545] {processor.py:161} INFO - Started process (PID=6780) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:23:38.908+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:23:38.910+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:38.909+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:23:38.917+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:23:38.926+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:38.926+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:38.940+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:38.940+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:23:38.956+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.053 seconds
+[2024-06-18T14:24:29.459+0545] {processor.py:161} INFO - Started process (PID=6908) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:24:29.461+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:24:29.462+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:29.462+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:24:29.470+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:24:29.533+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:29.533+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:24:29.545+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:29.545+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:30:00+00:00, run_after=2024-06-18 08:40:00+00:00
+[2024-06-18T14:24:29.562+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.106 seconds
+[2024-06-18T14:25:25.299+0545] {processor.py:161} INFO - Started process (PID=7071) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:25:25.300+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:25:25.301+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:25.301+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:25:25.309+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:25:25.321+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:25.321+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:25:25.338+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:25.337+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:25:25.354+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.061 seconds
+[2024-06-18T14:25:40.148+0545] {processor.py:161} INFO - Started process (PID=7122) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:25:40.149+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:25:40.150+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:40.150+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:25:40.162+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:25:40.170+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:40.170+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:25:40.187+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:40.186+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:25:40.204+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.060 seconds
+[2024-06-18T14:27:06.610+0545] {processor.py:161} INFO - Started process (PID=7338) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:27:06.611+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:27:06.612+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:27:06.612+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:27:06.624+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:27:06.632+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:27:06.632+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:27:06.650+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:27:06.649+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:27:06.667+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.062 seconds
+[2024-06-18T14:28:00.372+0545] {processor.py:161} INFO - Started process (PID=7493) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:28:00.373+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:28:00.374+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:00.374+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:28:00.383+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:28:00.520+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:00.520+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:28:00.534+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:00.533+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:28:00.549+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.181 seconds
+[2024-06-18T14:28:51.508+0545] {processor.py:161} INFO - Started process (PID=7629) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:28:51.509+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:28:51.510+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:51.510+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:28:51.520+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:28:51.651+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:51.651+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:28:51.668+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:51.668+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:28:51.685+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.182 seconds
+[2024-06-18T14:29:43.549+0545] {processor.py:161} INFO - Started process (PID=7736) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:29:43.550+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:29:43.552+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:29:43.551+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:29:43.562+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:29:43.568+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:29:43.568+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:29:43.589+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:29:43.589+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:29:43.608+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.064 seconds
+[2024-06-18T14:30:37.369+0545] {processor.py:161} INFO - Started process (PID=7882) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:30:37.370+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:30:37.371+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:30:37.370+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:30:37.378+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:30:37.493+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:30:37.493+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:30:37.504+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:30:37.504+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:30:37.520+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.155 seconds
+[2024-06-18T14:31:27.936+0545] {processor.py:161} INFO - Started process (PID=8004) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:31:27.937+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:31:27.938+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:31:27.938+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:31:27.945+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:31:27.955+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:31:27.955+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:31:27.969+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:31:27.969+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:31:28.041+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.109 seconds
+[2024-06-18T14:32:17.020+0545] {processor.py:161} INFO - Started process (PID=8125) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:32:17.021+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:32:17.022+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:32:17.022+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:32:17.083+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:32:17.090+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:32:17.090+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:32:17.105+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:32:17.104+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:32:17.121+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.105 seconds
+[2024-06-18T14:33:04.174+0545] {processor.py:161} INFO - Started process (PID=8242) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:33:04.175+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:33:04.176+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:04.176+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:33:04.185+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:33:04.197+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:04.197+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:33:04.214+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:04.214+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:33:04.232+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.062 seconds
+[2024-06-18T14:33:48.133+0545] {processor.py:161} INFO - Started process (PID=8357) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:33:48.135+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:33:48.136+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:48.135+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:33:48.143+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:33:48.153+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:48.153+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:33:48.168+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:48.167+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:33:48.184+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:34:31.685+0545] {processor.py:161} INFO - Started process (PID=8466) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:34:31.686+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:34:31.688+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:34:31.688+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:34:31.695+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:34:31.705+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:34:31.705+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:34:31.720+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:34:31.719+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:40:00+00:00, run_after=2024-06-18 08:50:00+00:00
+[2024-06-18T14:34:31.738+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.057 seconds
+[2024-06-18T14:35:20.327+0545] {processor.py:161} INFO - Started process (PID=8615) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:35:20.329+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:35:20.330+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:35:20.329+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:35:20.338+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:35:20.348+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:35:20.348+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:35:20.362+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:35:20.362+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:35:20.378+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:36:07.693+0545] {processor.py:161} INFO - Started process (PID=8737) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:36:07.695+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:36:07.696+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:07.695+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:36:07.703+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:36:07.713+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:07.713+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:36:07.727+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:07.727+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:36:07.743+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.054 seconds
+[2024-06-18T14:36:52.743+0545] {processor.py:161} INFO - Started process (PID=8851) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:36:52.744+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:36:52.745+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:52.745+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:36:52.752+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:36:52.762+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:52.762+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:36:52.778+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:52.778+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:36:52.795+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.056 seconds
+[2024-06-18T14:37:37.516+0545] {processor.py:161} INFO - Started process (PID=8962) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:37:37.517+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:37:37.518+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:37:37.518+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:37:37.525+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:37:37.535+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:37:37.535+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:37:37.549+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:37:37.549+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:37:37.567+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:38:23.526+0545] {processor.py:161} INFO - Started process (PID=9076) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:38:23.527+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:38:23.528+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:38:23.528+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:38:23.535+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:38:23.545+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:38:23.545+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:38:23.560+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:38:23.559+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:38:23.577+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:39:10.654+0545] {processor.py:161} INFO - Started process (PID=9194) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:39:10.656+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:39:10.657+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:10.657+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:39:10.665+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:39:10.674+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:10.674+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:39:10.689+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:10.689+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:39:10.704+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.054 seconds
+[2024-06-18T14:39:56.810+0545] {processor.py:161} INFO - Started process (PID=9311) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:39:56.811+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:39:56.812+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:56.812+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:39:56.820+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:39:56.830+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:56.830+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:39:56.845+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:56.844+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:39:56.861+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:40:44.073+0545] {processor.py:161} INFO - Started process (PID=9431) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:40:44.075+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:40:44.076+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:40:44.076+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:40:44.086+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:40:44.098+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:40:44.098+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:40:44.114+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:40:44.114+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:40:44.131+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.062 seconds
+[2024-06-18T14:41:29.248+0545] {processor.py:161} INFO - Started process (PID=9544) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:41:29.249+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:41:29.250+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:41:29.250+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:41:29.257+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:41:29.267+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:41:29.267+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:41:29.281+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:41:29.281+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:41:29.299+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:42:12.049+0545] {processor.py:161} INFO - Started process (PID=9653) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:42:12.051+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:42:12.052+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:12.052+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:42:12.059+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:42:12.070+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:12.069+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:42:12.084+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:12.084+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:42:12.099+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.054 seconds
+[2024-06-18T14:42:55.751+0545] {processor.py:161} INFO - Started process (PID=9762) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:42:55.752+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:42:55.754+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:55.753+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:42:55.761+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:42:55.771+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:55.770+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:42:55.785+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:55.785+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:42:55.802+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:43:41.644+0545] {processor.py:161} INFO - Started process (PID=9877) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:43:41.645+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:43:41.647+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:43:41.646+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:43:41.654+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:43:41.663+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:43:41.663+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:43:41.677+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:43:41.677+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:43:41.695+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:44:28.018+0545] {processor.py:161} INFO - Started process (PID=9991) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:44:28.019+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:44:28.020+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:44:28.020+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:44:28.028+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:44:28.038+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:44:28.038+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:44:28.052+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:44:28.052+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 08:50:00+00:00, run_after=2024-06-18 09:00:00+00:00
+[2024-06-18T14:44:28.070+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.056 seconds
+[2024-06-18T14:45:18.758+0545] {processor.py:161} INFO - Started process (PID=10143) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:45:18.760+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:45:18.761+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:45:18.761+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:45:18.769+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:45:18.779+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:45:18.778+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:45:18.793+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:45:18.793+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:45:18.812+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.057 seconds
+[2024-06-18T14:46:07.862+0545] {processor.py:161} INFO - Started process (PID=10268) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:46:07.863+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:46:07.864+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:07.864+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:46:07.872+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:46:07.882+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:07.882+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:46:07.896+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:07.896+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:46:07.914+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.056 seconds
+[2024-06-18T14:46:52.268+0545] {processor.py:161} INFO - Started process (PID=10380) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:46:52.269+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:46:52.270+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:52.269+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:46:52.278+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:46:52.290+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:52.289+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:46:52.306+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:52.306+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:46:52.323+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.060 seconds
+[2024-06-18T14:47:34.249+0545] {processor.py:161} INFO - Started process (PID=10488) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:47:34.251+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:47:34.252+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:47:34.251+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:47:34.259+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:47:34.269+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:47:34.269+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:47:34.283+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:47:34.283+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:47:34.300+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:48:18.445+0545] {processor.py:161} INFO - Started process (PID=10600) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:48:18.447+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:48:18.448+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:48:18.448+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:48:18.456+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:48:18.466+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:48:18.465+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:48:18.481+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:48:18.481+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:48:18.499+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.058 seconds
+[2024-06-18T14:49:04.236+0545] {processor.py:161} INFO - Started process (PID=10715) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:49:04.237+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:49:04.238+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:04.238+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:49:04.246+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:49:04.255+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:04.255+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:49:04.270+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:04.270+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:49:04.287+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.055 seconds
+[2024-06-18T14:49:50.787+0545] {processor.py:161} INFO - Started process (PID=10835) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:49:50.788+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:49:50.789+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:50.789+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:49:50.797+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:49:50.807+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:50.807+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:49:50.823+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:50.823+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:49:50.841+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.058 seconds
+[2024-06-18T14:50:34.235+0545] {processor.py:161} INFO - Started process (PID=10944) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:50:34.236+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:50:34.237+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:50:34.237+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:50:34.248+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:50:34.259+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:50:34.259+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:50:34.275+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:50:34.274+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:50:34.291+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.061 seconds
+[2024-06-18T14:51:17.183+0545] {processor.py:161} INFO - Started process (PID=11054) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:51:17.184+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:51:17.186+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:51:17.185+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:51:17.193+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:51:17.204+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:51:17.203+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:51:17.220+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:51:17.220+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:51:17.239+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.060 seconds
+[2024-06-18T14:52:00.567+0545] {processor.py:161} INFO - Started process (PID=11163) to work on /root/airflow/dags/backup.py
+[2024-06-18T14:52:00.569+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/backup.py for tasks to queue
+[2024-06-18T14:52:00.570+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:52:00.570+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/backup.py
+[2024-06-18T14:52:00.581+0545] {processor.py:840} INFO - DAG(s) 'Backup_Database' retrieved from /root/airflow/dags/backup.py
+[2024-06-18T14:52:00.599+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:52:00.599+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:52:00.620+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:52:00.620+0545] {dag.py:3954} INFO - Setting next_dagrun for Backup_Database to 2024-06-18 09:00:00+00:00, run_after=2024-06-18 09:10:00+00:00
+[2024-06-18T14:52:00.640+0545] {processor.py:183} INFO - Processing /root/airflow/dags/backup.py took 0.078 seconds

@@ -1,0 +1,19 @@
+[2024-06-18T14:35:05.855+0545] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-06-18T14:35:05.864+0545] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Backup_Database.send_mail scheduled__2024-06-18T08:40:00+00:00 [queued]>
+[2024-06-18T14:35:05.868+0545] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Backup_Database.send_mail scheduled__2024-06-18T08:40:00+00:00 [queued]>
+[2024-06-18T14:35:05.869+0545] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-06-18T14:35:05.880+0545] {taskinstance.py:2330} INFO - Executing <Task(EmailOperator): send_mail> on 2024-06-18 08:40:00+00:00
+[2024-06-18T14:35:05.881+0545] {standard_task_runner.py:63} INFO - Started process 8582 to run task
+[2024-06-18T14:35:05.883+0545] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'Backup_Database', 'send_mail', 'scheduled__2024-06-18T08:40:00+00:00', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/backup.py', '--cfg-path', '/tmp/tmpq6qyvvvz']
+[2024-06-18T14:35:05.884+0545] {standard_task_runner.py:91} INFO - Job 28: Subtask send_mail
+[2024-06-18T14:35:05.909+0545] {task_command.py:426} INFO - Running <TaskInstance: Backup_Database.send_mail scheduled__2024-06-18T08:40:00+00:00 [running]> on host Heathen.
+[2024-06-18T14:35:05.959+0545] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='gret' AIRFLOW_CTX_DAG_ID='Backup_Database' AIRFLOW_CTX_TASK_ID='send_mail' AIRFLOW_CTX_EXECUTION_DATE='2024-06-18T08:40:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-06-18T08:40:00+00:00'
+[2024-06-18T14:35:05.959+0545] {taskinstance.py:430} INFO - ::endgroup::
+[2024-06-18T14:35:05.966+0545] {logging_mixin.py:188} WARNING - /root/apache_env/lib/python3.10/site-packages/airflow/utils/email.py:154 RemovedInAirflow3Warning: Fetching SMTP credentials from configuration variables will be deprecated in a future release. Please set credentials using a connection instead.
+[2024-06-18T14:35:05.966+0545] {email.py:271} INFO - Email alerting: attempt 1
+[2024-06-18T14:35:08.041+0545] {email.py:282} INFO - Sent an alert email to ['avyuthan364@gmail.com']
+[2024-06-18T14:35:09.885+0545] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-06-18T14:35:09.888+0545] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=Backup_Database, task_id=send_mail, run_id=scheduled__2024-06-18T08:40:00+00:00, execution_date=20240618T084000, start_date=20240618T085005, end_date=20240618T085009
+[2024-06-18T14:35:09.931+0545] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-06-18T14:35:09.940+0545] {taskinstance.py:3503} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-06-18T14:35:09.941+0545] {local_task_job_runner.py:222} INFO - ::endgroup::

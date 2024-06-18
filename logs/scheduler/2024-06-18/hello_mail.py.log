@@ -1,0 +1,326 @@
+[2024-06-18T14:12:15.124+0545] {processor.py:161} INFO - Started process (PID=5010) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:12:15.125+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:12:15.126+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:15.126+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:12:15.134+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:12:15.205+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:15.204+0545] {override.py:1829} INFO - Created Permission View: can delete on DAG:Automate_Hello_Mail
+[2024-06-18T14:12:15.214+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:15.213+0545] {override.py:1829} INFO - Created Permission View: can read on DAG:Automate_Hello_Mail
+[2024-06-18T14:12:15.221+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:15.220+0545] {override.py:1829} INFO - Created Permission View: can edit on DAG:Automate_Hello_Mail
+[2024-06-18T14:12:15.221+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:15.221+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:12:15.227+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:15.227+0545] {dag.py:3118} INFO - Creating ORM DAG for Automate_Hello_Mail
+[2024-06-18T14:12:15.232+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:12:15.232+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:27:00+00:00, run_after=2024-06-18 08:27:10+00:00
+[2024-06-18T14:12:15.246+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.125 seconds
+[2024-06-18T14:14:31.136+0545] {processor.py:161} INFO - Started process (PID=5312) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:14:31.137+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:14:31.138+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:31.138+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:14:31.149+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:14:31.166+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:31.166+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:14:31.183+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:14:31.183+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:29:20+00:00, run_after=2024-06-18 08:29:30+00:00
+[2024-06-18T14:14:31.201+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.069 seconds
+[2024-06-18T14:15:21.213+0545] {processor.py:161} INFO - Started process (PID=5452) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:15:21.214+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:15:21.215+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:21.215+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:15:21.220+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:15:21.230+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:21.230+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:21.245+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:21.245+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:30:10+00:00, run_after=2024-06-18 08:30:20+00:00
+[2024-06-18T14:15:21.262+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.053 seconds
+[2024-06-18T14:15:46.675+0545] {processor.py:161} INFO - Started process (PID=5509) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:15:46.677+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:15:46.678+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:46.678+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:15:46.689+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:15:46.695+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:46.695+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:15:46.715+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:15:46.715+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:30:30+00:00, run_after=2024-06-18 08:30:40+00:00
+[2024-06-18T14:15:46.734+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.064 seconds
+[2024-06-18T14:16:45.911+0545] {processor.py:161} INFO - Started process (PID=5677) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:16:45.913+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:16:45.914+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:45.914+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:16:45.919+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:16:46.035+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:46.035+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:16:46.044+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:16:46.044+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:31:30+00:00, run_after=2024-06-18 08:31:40+00:00
+[2024-06-18T14:16:46.065+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.158 seconds
+[2024-06-18T14:17:37.616+0545] {processor.py:161} INFO - Started process (PID=5806) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:17:37.617+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:17:37.619+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:37.619+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:17:37.626+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:17:37.640+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:37.640+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:17:37.663+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:17:37.662+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:32:20+00:00, run_after=2024-06-18 08:32:30+00:00
+[2024-06-18T14:17:37.741+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.129 seconds
+[2024-06-18T14:18:25.789+0545] {processor.py:161} INFO - Started process (PID=5907) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:18:25.791+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:18:25.792+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:25.791+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:18:25.852+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:18:25.858+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:25.858+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:18:25.868+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:18:25.868+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:33:10+00:00, run_after=2024-06-18 08:33:20+00:00
+[2024-06-18T14:18:25.883+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.098 seconds
+[2024-06-18T14:22:04.017+0545] {processor.py:161} INFO - Started process (PID=6487) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:22:04.019+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:22:04.020+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:04.020+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:22:04.029+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:22:04.035+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:04.034+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:22:04.051+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:22:04.051+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:36:50+00:00, run_after=2024-06-18 08:37:00+00:00
+[2024-06-18T14:22:04.069+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.055 seconds
+[2024-06-18T14:23:02.736+0545] {processor.py:161} INFO - Started process (PID=6698) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:23:02.738+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:23:02.739+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:02.739+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:23:02.745+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:23:02.875+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:02.875+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:02.886+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:02.886+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:37:50+00:00, run_after=2024-06-18 08:38:00+00:00
+[2024-06-18T14:23:02.902+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.169 seconds
+[2024-06-18T14:23:39.788+0545] {processor.py:161} INFO - Started process (PID=6784) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:23:39.789+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:23:39.791+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:39.790+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:23:39.799+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:23:39.813+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:39.813+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:23:39.831+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:23:39.830+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:38:20+00:00, run_after=2024-06-18 08:38:30+00:00
+[2024-06-18T14:23:39.848+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.064 seconds
+[2024-06-18T14:24:30.688+0545] {processor.py:161} INFO - Started process (PID=6912) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:24:30.690+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:24:30.691+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:30.691+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:24:30.697+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:24:30.762+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:30.761+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:24:30.774+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:24:30.773+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:39:20+00:00, run_after=2024-06-18 08:39:30+00:00
+[2024-06-18T14:24:30.790+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.105 seconds
+[2024-06-18T14:25:25.517+0545] {processor.py:161} INFO - Started process (PID=7072) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:25:25.518+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:25:25.519+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:25.519+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:25:25.525+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:25:25.537+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:25.537+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:25:25.551+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:25.551+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:40:10+00:00, run_after=2024-06-18 08:40:20+00:00
+[2024-06-18T14:25:25.568+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.056 seconds
+[2024-06-18T14:25:41.278+0545] {processor.py:161} INFO - Started process (PID=7130) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:25:41.279+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:25:41.280+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:41.280+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:25:41.290+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:25:41.295+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:41.295+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:25:41.311+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:25:41.311+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:40:30+00:00, run_after=2024-06-18 08:40:40+00:00
+[2024-06-18T14:25:41.329+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.056 seconds
+[2024-06-18T14:27:07.739+0545] {processor.py:161} INFO - Started process (PID=7343) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:27:07.740+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:27:07.741+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:27:07.741+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:27:07.751+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:27:07.756+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:27:07.756+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:27:07.770+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:27:07.770+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:41:50+00:00, run_after=2024-06-18 08:42:00+00:00
+[2024-06-18T14:27:07.786+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.052 seconds
+[2024-06-18T14:28:01.600+0545] {processor.py:161} INFO - Started process (PID=7497) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:28:01.601+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:28:01.602+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:01.602+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:28:01.609+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:28:01.732+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:01.732+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:28:01.743+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:01.743+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:42:50+00:00, run_after=2024-06-18 08:43:00+00:00
+[2024-06-18T14:28:01.764+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.168 seconds
+[2024-06-18T14:28:53.869+0545] {processor.py:161} INFO - Started process (PID=7634) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:28:53.870+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:28:53.872+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:53.871+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:28:53.879+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:28:53.891+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:53.890+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:28:53.968+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:28:53.968+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:43:40+00:00, run_after=2024-06-18 08:43:50+00:00
+[2024-06-18T14:28:53.983+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.119 seconds
+[2024-06-18T14:29:45.836+0545] {processor.py:161} INFO - Started process (PID=7746) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:29:45.838+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:29:45.839+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:29:45.839+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:29:45.849+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:29:45.854+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:29:45.854+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:29:45.870+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:29:45.870+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:44:30+00:00, run_after=2024-06-18 08:44:40+00:00
+[2024-06-18T14:29:45.886+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.055 seconds
+[2024-06-18T14:30:39.822+0545] {processor.py:161} INFO - Started process (PID=7887) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:30:39.823+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:30:39.825+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:30:39.824+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:30:39.830+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:30:39.944+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:30:39.944+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:30:39.954+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:30:39.954+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:45:20+00:00, run_after=2024-06-18 08:45:30+00:00
+[2024-06-18T14:30:39.970+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.151 seconds
+[2024-06-18T14:31:29.609+0545] {processor.py:161} INFO - Started process (PID=8009) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:31:29.610+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:31:29.611+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:31:29.611+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:31:29.617+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:31:29.626+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:31:29.625+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:31:29.639+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:31:29.639+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:46:10+00:00, run_after=2024-06-18 08:46:20+00:00
+[2024-06-18T14:31:29.712+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.108 seconds
+[2024-06-18T14:32:18.807+0545] {processor.py:161} INFO - Started process (PID=8130) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:32:18.809+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:32:18.810+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:32:18.810+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:32:18.869+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:32:18.876+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:32:18.876+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:32:18.886+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:32:18.886+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:47:00+00:00, run_after=2024-06-18 08:47:10+00:00
+[2024-06-18T14:32:18.903+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.099 seconds
+[2024-06-18T14:33:06.204+0545] {processor.py:161} INFO - Started process (PID=8247) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:33:06.205+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:33:06.206+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:06.206+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:33:06.212+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:33:06.222+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:06.222+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:33:06.237+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:06.237+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:47:50+00:00, run_after=2024-06-18 08:48:00+00:00
+[2024-06-18T14:33:06.256+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.056 seconds
+[2024-06-18T14:33:50.387+0545] {processor.py:161} INFO - Started process (PID=8362) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:33:50.388+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:33:50.389+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:50.389+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:33:50.395+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:33:50.404+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:50.404+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:33:50.419+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:33:50.418+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:48:40+00:00, run_after=2024-06-18 08:48:50+00:00
+[2024-06-18T14:33:50.436+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.052 seconds
+[2024-06-18T14:34:33.450+0545] {processor.py:161} INFO - Started process (PID=8471) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:34:33.451+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:34:33.453+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:34:33.453+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:34:33.458+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:34:33.467+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:34:33.467+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:34:33.480+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:34:33.479+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:49:20+00:00, run_after=2024-06-18 08:49:30+00:00
+[2024-06-18T14:34:33.497+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.051 seconds
+[2024-06-18T14:35:22.592+0545] {processor.py:161} INFO - Started process (PID=8620) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:35:22.593+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:35:22.594+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:35:22.594+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:35:22.600+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:35:22.609+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:35:22.609+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:35:22.622+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:35:22.622+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:50:10+00:00, run_after=2024-06-18 08:50:20+00:00
+[2024-06-18T14:35:22.639+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.050 seconds
+[2024-06-18T14:36:09.949+0545] {processor.py:161} INFO - Started process (PID=8742) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:36:09.950+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:36:09.951+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:09.951+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:36:09.957+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:36:09.966+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:09.966+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:36:09.979+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:09.978+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:50:50+00:00, run_after=2024-06-18 08:51:00+00:00
+[2024-06-18T14:36:09.997+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.052 seconds
+[2024-06-18T14:36:55.005+0545] {processor.py:161} INFO - Started process (PID=8856) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:36:55.007+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:36:55.008+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:55.008+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:36:55.014+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:36:55.023+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:55.023+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:36:55.036+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:36:55.036+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:51:40+00:00, run_after=2024-06-18 08:51:50+00:00
+[2024-06-18T14:36:55.055+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.054 seconds
+[2024-06-18T14:37:38.970+0545] {processor.py:161} INFO - Started process (PID=8967) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:37:38.971+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:37:38.972+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:37:38.972+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:37:38.978+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:37:38.987+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:37:38.987+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:37:39.000+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:37:39.000+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:52:20+00:00, run_after=2024-06-18 08:52:30+00:00
+[2024-06-18T14:37:39.016+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.051 seconds
+[2024-06-18T14:38:25.084+0545] {processor.py:161} INFO - Started process (PID=9081) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:38:25.086+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:38:25.087+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:38:25.087+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:38:25.094+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:38:25.104+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:38:25.104+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:38:25.119+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:38:25.118+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:53:10+00:00, run_after=2024-06-18 08:53:20+00:00
+[2024-06-18T14:38:25.135+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.056 seconds
+[2024-06-18T14:39:12.406+0545] {processor.py:161} INFO - Started process (PID=9199) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:39:12.407+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:39:12.408+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:12.408+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:39:12.414+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:39:12.423+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:12.423+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:39:12.436+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:12.436+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:54:00+00:00, run_after=2024-06-18 08:54:10+00:00
+[2024-06-18T14:39:12.453+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.050 seconds
+[2024-06-18T14:39:58.573+0545] {processor.py:161} INFO - Started process (PID=9316) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:39:58.574+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:39:58.575+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:58.575+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:39:58.582+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:39:58.593+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:58.593+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:39:58.608+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:39:58.608+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:54:40+00:00, run_after=2024-06-18 08:54:50+00:00
+[2024-06-18T14:39:58.630+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.061 seconds
+[2024-06-18T14:40:46.227+0545] {processor.py:161} INFO - Started process (PID=9436) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:40:46.228+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:40:46.229+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:40:46.229+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:40:46.235+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:40:46.245+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:40:46.245+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:40:46.258+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:40:46.258+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:55:30+00:00, run_after=2024-06-18 08:55:40+00:00
+[2024-06-18T14:40:46.276+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.053 seconds
+[2024-06-18T14:41:31.001+0545] {processor.py:161} INFO - Started process (PID=9549) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:41:31.002+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:41:31.003+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:41:31.003+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:41:31.009+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:41:31.018+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:41:31.017+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:41:31.030+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:41:31.030+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:56:20+00:00, run_after=2024-06-18 08:56:30+00:00
+[2024-06-18T14:41:31.046+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.049 seconds
+[2024-06-18T14:42:14.304+0545] {processor.py:161} INFO - Started process (PID=9658) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:42:14.305+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:42:14.306+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:14.306+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:42:14.312+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:42:14.321+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:14.321+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:42:14.334+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:14.334+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:57:00+00:00, run_after=2024-06-18 08:57:10+00:00
+[2024-06-18T14:42:14.351+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.050 seconds
+[2024-06-18T14:42:57.239+0545] {processor.py:161} INFO - Started process (PID=9767) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:42:57.240+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:42:57.241+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:57.241+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:42:57.247+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:42:57.256+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:57.256+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:42:57.271+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:42:57.271+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:57:40+00:00, run_after=2024-06-18 08:57:50+00:00
+[2024-06-18T14:42:57.288+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.053 seconds
+[2024-06-18T14:43:43.388+0545] {processor.py:161} INFO - Started process (PID=9879) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:43:43.389+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:43:43.390+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:43:43.390+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:43:43.396+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:43:43.405+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:43:43.404+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:43:43.421+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:43:43.421+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:58:30+00:00, run_after=2024-06-18 08:58:40+00:00
+[2024-06-18T14:43:43.438+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.053 seconds
+[2024-06-18T14:44:29.569+0545] {processor.py:161} INFO - Started process (PID=9996) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:44:29.570+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:44:29.572+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:44:29.571+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:44:29.579+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:44:29.589+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:44:29.589+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:44:29.602+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:44:29.602+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 08:59:10+00:00, run_after=2024-06-18 08:59:20+00:00
+[2024-06-18T14:44:29.618+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.052 seconds
+[2024-06-18T14:45:21.012+0545] {processor.py:161} INFO - Started process (PID=10148) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:45:21.013+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:45:21.014+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:45:21.014+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:45:21.020+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:45:21.029+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:45:21.029+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:45:21.042+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:45:21.042+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:00:10+00:00, run_after=2024-06-18 09:00:20+00:00
+[2024-06-18T14:45:21.060+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.052 seconds
+[2024-06-18T14:46:10.124+0545] {processor.py:161} INFO - Started process (PID=10273) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:46:10.125+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:46:10.127+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:10.127+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:46:10.133+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:46:10.141+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:10.141+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:46:10.155+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:10.154+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:01:00+00:00, run_after=2024-06-18 09:01:10+00:00
+[2024-06-18T14:46:10.173+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.053 seconds
+[2024-06-18T14:46:53.733+0545] {processor.py:161} INFO - Started process (PID=10382) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:46:53.734+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:46:53.735+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:53.735+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:46:53.741+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:46:53.753+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:53.752+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:46:53.767+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:46:53.767+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:01:40+00:00, run_after=2024-06-18 09:01:50+00:00
+[2024-06-18T14:46:53.782+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.053 seconds
+[2024-06-18T14:47:36.239+0545] {processor.py:161} INFO - Started process (PID=10493) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:47:36.240+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:47:36.242+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:47:36.241+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:47:36.249+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:47:36.260+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:47:36.259+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:47:36.277+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:47:36.277+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:02:20+00:00, run_after=2024-06-18 09:02:30+00:00
+[2024-06-18T14:47:36.295+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.060 seconds
+[2024-06-18T14:48:20.698+0545] {processor.py:161} INFO - Started process (PID=10605) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:48:20.699+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:48:20.700+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:48:20.700+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:48:20.706+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:48:20.715+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:48:20.715+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:48:20.728+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:48:20.728+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:03:10+00:00, run_after=2024-06-18 09:03:20+00:00
+[2024-06-18T14:48:20.746+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.052 seconds
+[2024-06-18T14:49:06.492+0545] {processor.py:161} INFO - Started process (PID=10720) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:49:06.493+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:49:06.494+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:06.494+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:49:06.500+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:49:06.509+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:06.509+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:49:06.521+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:06.521+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:03:50+00:00, run_after=2024-06-18 09:04:00+00:00
+[2024-06-18T14:49:06.538+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.050 seconds
+[2024-06-18T14:49:53.039+0545] {processor.py:161} INFO - Started process (PID=10840) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:49:53.041+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:49:53.042+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:53.041+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:49:53.047+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:49:53.056+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:53.056+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:49:53.069+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:49:53.068+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:04:40+00:00, run_after=2024-06-18 09:04:50+00:00
+[2024-06-18T14:49:53.086+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.051 seconds
+[2024-06-18T14:50:35.316+0545] {processor.py:161} INFO - Started process (PID=10949) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:50:35.317+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:50:35.318+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:50:35.318+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:50:35.324+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:50:35.334+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:50:35.334+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:50:35.348+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:50:35.348+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:05:20+00:00, run_after=2024-06-18 09:05:30+00:00
+[2024-06-18T14:50:35.365+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.053 seconds
+[2024-06-18T14:51:19.438+0545] {processor.py:161} INFO - Started process (PID=11059) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:51:19.439+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:51:19.441+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:51:19.440+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:51:19.447+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:51:19.457+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:51:19.457+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:51:19.471+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:51:19.471+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:06:00+00:00, run_after=2024-06-18 09:06:10+00:00
+[2024-06-18T14:51:19.489+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.055 seconds
+[2024-06-18T14:52:02.301+0545] {processor.py:161} INFO - Started process (PID=11168) to work on /root/airflow/dags/hello_mail.py
+[2024-06-18T14:52:02.302+0545] {processor.py:830} INFO - Processing file /root/airflow/dags/hello_mail.py for tasks to queue
+[2024-06-18T14:52:02.304+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:52:02.303+0545] {dagbag.py:545} INFO - Filling up the DagBag from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:52:02.312+0545] {processor.py:840} INFO - DAG(s) 'Automate_Hello_Mail' retrieved from /root/airflow/dags/hello_mail.py
+[2024-06-18T14:52:02.324+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:52:02.323+0545] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-06-18T14:52:02.343+0545] {logging_mixin.py:188} INFO - [2024-06-18T14:52:02.343+0545] {dag.py:3954} INFO - Setting next_dagrun for Automate_Hello_Mail to 2024-06-18 09:06:50+00:00, run_after=2024-06-18 09:07:00+00:00
+[2024-06-18T14:52:02.370+0545] {processor.py:183} INFO - Processing /root/airflow/dags/hello_mail.py took 0.074 seconds

@@ -1,0 +1,17 @@
+[2024-06-18T14:22:31.511+0545] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-06-18T14:22:31.521+0545] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Backup_Database.parse_task manual__2024-06-18T08:37:27.350691+00:00 [queued]>
+[2024-06-18T14:22:31.525+0545] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Backup_Database.parse_task manual__2024-06-18T08:37:27.350691+00:00 [queued]>
+[2024-06-18T14:22:31.525+0545] {taskinstance.py:2306} INFO - Starting attempt 1 of 2
+[2024-06-18T14:22:31.537+0545] {taskinstance.py:2330} INFO - Executing <Task(PythonOperator): parse_task> on 2024-06-18 08:37:27.350691+00:00
+[2024-06-18T14:22:31.538+0545] {standard_task_runner.py:63} INFO - Started process 6594 to run task
+[2024-06-18T14:22:31.541+0545] {standard_task_runner.py:90} INFO - Running: ['airflow', 'tasks', 'run', 'Backup_Database', 'parse_task', 'manual__2024-06-18T08:37:27.350691+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/backup.py', '--cfg-path', '/tmp/tmpblukjuxe']
+[2024-06-18T14:22:31.541+0545] {standard_task_runner.py:91} INFO - Job 12: Subtask parse_task
+[2024-06-18T14:22:31.566+0545] {task_command.py:426} INFO - Running <TaskInstance: Backup_Database.parse_task manual__2024-06-18T08:37:27.350691+00:00 [running]> on host Heathen.
+[2024-06-18T14:22:31.612+0545] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='avyu' AIRFLOW_CTX_DAG_ID='Backup_Database' AIRFLOW_CTX_TASK_ID='parse_task' AIRFLOW_CTX_EXECUTION_DATE='2024-06-18T08:37:27.350691+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2024-06-18T08:37:27.350691+00:00'
+[2024-06-18T14:22:31.612+0545] {taskinstance.py:430} INFO - ::endgroup::
+[2024-06-18T14:22:31.625+0545] {python.py:237} INFO - Done. Returned value was: None
+[2024-06-18T14:22:31.625+0545] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2024-06-18T14:22:31.629+0545] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=Backup_Database, task_id=parse_task, run_id=manual__2024-06-18T08:37:27.350691+00:00, execution_date=20240618T083727, start_date=20240618T083731, end_date=20240618T083731
+[2024-06-18T14:22:31.673+0545] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2024-06-18T14:22:31.683+0545] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2024-06-18T14:22:31.689+0545] {local_task_job_runner.py:222} INFO - ::endgroup::
